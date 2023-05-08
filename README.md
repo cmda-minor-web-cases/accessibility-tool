@@ -1,6 +1,7 @@
 # Appclusive
 
-![Visual]()
+![appclusive-black](https://user-images.githubusercontent.com/1061632/236822183-14969dbd-8389-4fbf-9ca9-9e265000af87.png)
+
 
 ## Inhoudsopgave
   * [Beschrijving](#beschrijving)
